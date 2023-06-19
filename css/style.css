@@ -42,14 +42,29 @@ body{
 .about-image{
 margin-left: -340px;
 }
-.sub-title{
+.sub-style{
     color: #6c63ff;
 font-weight: 700;
 font-size: 24px;
+line-height: 2;
+}
+.subtitle-style{
+    font-size: 21px;
+    font-weight: 700px;
 }
 .title-style{
     font-weight: 700;
-    font-size: 48px;
+    font-size: 40px;
+    line-height: 1.25;
+
+}
+.p-style{
+    margin-bottom: 1rem;
+    font-family: 'Poppins', sans-serif;
+    font color: #666666;
+    font weight: 400px;
+    line height: 28px;
+
 
 }
 .main-style{
@@ -59,5 +74,19 @@ font-size: 24px;
 .link-style{
     color: black;
     font-weight: 700;
+
+}
+.service-image{
+    border-radius: 50%;
+    background-color: rgb(243, 249, 251);
+}
+.service-img{
+    margin-top: 100px;
+}
+.service-icon{
+    background-color: #6c63ff;
+    padding: 15px;
+    width: 55px;
+    border-radius: 50%;
 
 }
