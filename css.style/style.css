@@ -80,6 +80,7 @@ line-height: 2;
 .link-style{
     color: black;
     font-weight: 700;
+    text-decoration: none;
 
 }
 .service-image{
@@ -104,4 +105,7 @@ margin-bottom: 50px;
 }
 .full-width-section{
     background-color: aliceblue;
+}
+.my-card{
+    border-bottom: #6c63ff;
 }
